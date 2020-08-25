@@ -1,0 +1,17 @@
+#myorderD{
+            border-style:outset;
+            padding:20px;
+            
+        }
+        #details {
+           
+        }
+        #containerD{
+           border-style:ridge;
+            padding: 50px; }
+
+            #drugs{
+                padding: 20px;
+                border:#005cbf;
+                border-style:double;
+            }
